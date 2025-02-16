@@ -2,12 +2,7 @@
 
 Neste repositório **Análise de Dados com Excel** você encontrará uma coleção de materiais para ajudá-lo a dominar a análise de dados utilizando o Microsoft Excel. O material é básico e voltado para iniciantes.
 
-## **Estrutura do Repositório**
-
-O repositório está organizado da seguinte forma:
-
-### **Introdução à Analytics com Excel (Partes 01 a 09)**
-
+# **Estrutura do Repositório**
 1. **Parte 01 - Introdução ao Excel para Análise de Dados**
    - Familiarização com a interface do Excel
    - Principais funcionalidades e ferramentas
@@ -55,8 +50,7 @@ O repositório está organizado da seguinte forma:
 10. **Bibliografia**
    - Uma lista de referências e recursos adicionais.
 
-## **MInhas redes**
-
+# **MInhas redes**
 - Website: [ozsantospereira.github.io](https://ozsantospereira.github.io/)
 - Medium: [@ozsp](https://medium.com/@ozsp)
 - Patreon: [ozsp](https://www.patreon.com/c/ozsp)
