@@ -52,24 +52,10 @@ O repositório está organizado da seguinte forma:
    - Aplicação dos conhecimentos adquiridos em um projeto real
    - Análise completa de um conjunto de dados
    - Elaboração e apresentação de conclusões
+10. **Bibliografia**
+   - Uma lista de referências e recursos adicionais.
 
-### **Bibliografia**
-
-- Uma lista de referências e recursos adicionais para aprofundar seus conhecimentos em análise de dados com Excel.
-
-## **Como Começar**
-
-1. **Clone o Repositório**: Baixe o repositório para sua máquina local com o seguinte comando:
-
-   ```bash
-   git clone https://github.com/ozsantospereira/data_analytics_excel.git
-   ```
-
-2. **Explore os Tutoriais**: Siga os tutoriais em ordem numérica para construir seu conhecimento de forma progressiva.
-
-3. **Consulte a Bibliografia**: Acesse a seção de bibliografia para encontrar leituras complementares e aprofundar seus estudos.
-
-## **Conecte-se Comigo**
+## **MInhas redes**
 
 - Website: [ozsantospereira.github.io](https://ozsantospereira.github.io/)
 - Medium: [@ozsp](https://medium.com/@ozsp)
@@ -78,10 +64,6 @@ O repositório está organizado da seguinte forma:
 - Twitter/X: [@Osvaldo91422399](https://twitter.com/Osvaldo91422399)
 - ResearchGate: [Oz Santos Pereira](https://www.researchgate.net/profile/Oz-Santos-Pereira)
 - Google Scholar: [Osvaldo L. Santos-Pereira]
-
-## **Contribuições**
-
-Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou novos recursos para compartilhar, sinta-se à vontade para enviar um **pull request** ou abrir uma **issue**.
 
 ## **Licença**
 
